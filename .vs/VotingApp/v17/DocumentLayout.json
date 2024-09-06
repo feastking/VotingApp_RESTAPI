@@ -1,0 +1,334 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\piotr_kubiak\\source\\repos\\VotingApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E62AB991-BBB9-428A-B339-155957339CBB}|VotingApp\\VotingApp.csproj|c:\\users\\piotr_kubiak\\source\\repos\\votingapp\\votingapp\\votingmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62AB991-BBB9-428A-B339-155957339CBB}|VotingApp\\VotingApp.csproj|solutionrelative:votingapp\\votingmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62AB991-BBB9-428A-B339-155957339CBB}|VotingApp\\VotingApp.csproj|c:\\users\\piotr_kubiak\\source\\repos\\votingapp\\votingapp\\services\\votersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62AB991-BBB9-428A-B339-155957339CBB}|VotingApp\\VotingApp.csproj|solutionrelative:votingapp\\services\\votersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62AB991-BBB9-428A-B339-155957339CBB}|VotingApp\\VotingApp.csproj|c:\\users\\piotr_kubiak\\source\\repos\\votingapp\\votingapp\\models\\voterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62AB991-BBB9-428A-B339-155957339CBB}|VotingApp\\VotingApp.csproj|solutionrelative:votingapp\\models\\voterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62AB991-BBB9-428A-B339-155957339CBB}|VotingApp\\VotingApp.csproj|c:\\users\\piotr_kubiak\\source\\repos\\votingapp\\votingapp\\enums\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62AB991-BBB9-428A-B339-155957339CBB}|VotingApp\\VotingApp.csproj|solutionrelative:votingapp\\enums\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62AB991-BBB9-428A-B339-155957339CBB}|VotingApp\\VotingApp.csproj|c:\\users\\piotr_kubiak\\source\\repos\\votingapp\\votingapp\\entities\\voter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62AB991-BBB9-428A-B339-155957339CBB}|VotingApp\\VotingApp.csproj|solutionrelative:votingapp\\entities\\voter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62AB991-BBB9-428A-B339-155957339CBB}|VotingApp\\VotingApp.csproj|c:\\users\\piotr_kubiak\\source\\repos\\votingapp\\votingapp\\middlewares\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62AB991-BBB9-428A-B339-155957339CBB}|VotingApp\\VotingApp.csproj|solutionrelative:votingapp\\middlewares\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62AB991-BBB9-428A-B339-155957339CBB}|VotingApp\\VotingApp.csproj|c:\\users\\piotr_kubiak\\source\\repos\\votingapp\\votingapp\\services\\candidatesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62AB991-BBB9-428A-B339-155957339CBB}|VotingApp\\VotingApp.csproj|solutionrelative:votingapp\\services\\candidatesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62AB991-BBB9-428A-B339-155957339CBB}|VotingApp\\VotingApp.csproj|c:\\users\\piotr_kubiak\\source\\repos\\votingapp\\votingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62AB991-BBB9-428A-B339-155957339CBB}|VotingApp\\VotingApp.csproj|solutionrelative:votingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62AB991-BBB9-428A-B339-155957339CBB}|VotingApp\\VotingApp.csproj|c:\\users\\piotr_kubiak\\source\\repos\\votingapp\\votingapp\\controllers\\voterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62AB991-BBB9-428A-B339-155957339CBB}|VotingApp\\VotingApp.csproj|solutionrelative:votingapp\\controllers\\voterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62AB991-BBB9-428A-B339-155957339CBB}|VotingApp\\VotingApp.csproj|c:\\users\\piotr_kubiak\\source\\repos\\votingapp\\votingapp\\repositories\\votersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62AB991-BBB9-428A-B339-155957339CBB}|VotingApp\\VotingApp.csproj|solutionrelative:votingapp\\repositories\\votersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62AB991-BBB9-428A-B339-155957339CBB}|VotingApp\\VotingApp.csproj|c:\\users\\piotr_kubiak\\source\\repos\\votingapp\\votingapp\\repositories\\candidatesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62AB991-BBB9-428A-B339-155957339CBB}|VotingApp\\VotingApp.csproj|solutionrelative:votingapp\\repositories\\candidatesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62AB991-BBB9-428A-B339-155957339CBB}|VotingApp\\VotingApp.csproj|c:\\users\\piotr_kubiak\\source\\repos\\votingapp\\votingapp\\models\\submitvotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62AB991-BBB9-428A-B339-155957339CBB}|VotingApp\\VotingApp.csproj|solutionrelative:votingapp\\models\\submitvotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62AB991-BBB9-428A-B339-155957339CBB}|VotingApp\\VotingApp.csproj|c:\\users\\piotr_kubiak\\source\\repos\\votingapp\\votingapp\\interfaces\\ivotersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62AB991-BBB9-428A-B339-155957339CBB}|VotingApp\\VotingApp.csproj|solutionrelative:votingapp\\interfaces\\ivotersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62AB991-BBB9-428A-B339-155957339CBB}|VotingApp\\VotingApp.csproj|c:\\users\\piotr_kubiak\\source\\repos\\votingapp\\votingapp\\services\\dashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62AB991-BBB9-428A-B339-155957339CBB}|VotingApp\\VotingApp.csproj|solutionrelative:votingapp\\services\\dashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62AB991-BBB9-428A-B339-155957339CBB}|VotingApp\\VotingApp.csproj|c:\\users\\piotr_kubiak\\source\\repos\\votingapp\\votingapp\\controllers\\candidatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62AB991-BBB9-428A-B339-155957339CBB}|VotingApp\\VotingApp.csproj|solutionrelative:votingapp\\controllers\\candidatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62AB991-BBB9-428A-B339-155957339CBB}|VotingApp\\VotingApp.csproj|c:\\users\\piotr_kubiak\\source\\repos\\votingapp\\votingapp\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62AB991-BBB9-428A-B339-155957339CBB}|VotingApp\\VotingApp.csproj|solutionrelative:votingapp\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62AB991-BBB9-428A-B339-155957339CBB}|VotingApp\\VotingApp.csproj|c:\\users\\piotr_kubiak\\source\\repos\\votingapp\\votingapp\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62AB991-BBB9-428A-B339-155957339CBB}|VotingApp\\VotingApp.csproj|solutionrelative:votingapp\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62AB991-BBB9-428A-B339-155957339CBB}|VotingApp\\VotingApp.csproj|c:\\users\\piotr_kubiak\\source\\repos\\votingapp\\votingapp\\votingseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62AB991-BBB9-428A-B339-155957339CBB}|VotingApp\\VotingApp.csproj|solutionrelative:votingapp\\votingseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VoterDto.cs",
+              "DocumentMoniker": "C:\\Users\\piotr_kubiak\\source\\repos\\VotingApp\\VotingApp\\Models\\VoterDto.cs",
+              "RelativeDocumentMoniker": "VotingApp\\Models\\VoterDto.cs",
+              "ToolTip": "C:\\Users\\piotr_kubiak\\source\\repos\\VotingApp\\VotingApp\\Models\\VoterDto.cs",
+              "RelativeToolTip": "VotingApp\\Models\\VoterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T08:40:24.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Users\\piotr_kubiak\\source\\repos\\VotingApp\\VotingApp\\Enums\\Enums.cs",
+              "RelativeDocumentMoniker": "VotingApp\\Enums\\Enums.cs",
+              "ToolTip": "C:\\Users\\piotr_kubiak\\source\\repos\\VotingApp\\VotingApp\\Enums\\Enums.cs",
+              "RelativeToolTip": "VotingApp\\Enums\\Enums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T08:40:10.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Voter.cs",
+              "DocumentMoniker": "C:\\Users\\piotr_kubiak\\source\\repos\\VotingApp\\VotingApp\\Entities\\Voter.cs",
+              "RelativeDocumentMoniker": "VotingApp\\Entities\\Voter.cs",
+              "ToolTip": "C:\\Users\\piotr_kubiak\\source\\repos\\VotingApp\\VotingApp\\Entities\\Voter.cs",
+              "RelativeToolTip": "VotingApp\\Entities\\Voter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T08:39:39.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\piotr_kubiak\\source\\repos\\VotingApp\\VotingApp\\Program.cs",
+              "RelativeDocumentMoniker": "VotingApp\\Program.cs",
+              "ToolTip": "C:\\Users\\piotr_kubiak\\source\\repos\\VotingApp\\VotingApp\\Program.cs",
+              "RelativeToolTip": "VotingApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T08:20:21.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\piotr_kubiak\\source\\repos\\VotingApp\\VotingApp\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "VotingApp\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\piotr_kubiak\\source\\repos\\VotingApp\\VotingApp\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "VotingApp\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T08:16:06.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SubmitVoteDto.cs",
+              "DocumentMoniker": "C:\\Users\\piotr_kubiak\\source\\repos\\VotingApp\\VotingApp\\Models\\SubmitVoteDto.cs",
+              "RelativeDocumentMoniker": "VotingApp\\Models\\SubmitVoteDto.cs",
+              "ToolTip": "C:\\Users\\piotr_kubiak\\source\\repos\\VotingApp\\VotingApp\\Models\\SubmitVoteDto.cs",
+              "RelativeToolTip": "VotingApp\\Models\\SubmitVoteDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T08:06:38.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IVotersService.cs",
+              "DocumentMoniker": "C:\\Users\\piotr_kubiak\\source\\repos\\VotingApp\\VotingApp\\Interfaces\\IVotersService.cs",
+              "RelativeDocumentMoniker": "VotingApp\\Interfaces\\IVotersService.cs",
+              "ToolTip": "C:\\Users\\piotr_kubiak\\source\\repos\\VotingApp\\VotingApp\\Interfaces\\IVotersService.cs",
+              "RelativeToolTip": "VotingApp\\Interfaces\\IVotersService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T08:05:14.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VotersController.cs",
+              "DocumentMoniker": "C:\\Users\\piotr_kubiak\\source\\repos\\VotingApp\\VotingApp\\Controllers\\VotersController.cs",
+              "RelativeDocumentMoniker": "VotingApp\\Controllers\\VotersController.cs",
+              "ToolTip": "C:\\Users\\piotr_kubiak\\source\\repos\\VotingApp\\VotingApp\\Controllers\\VotersController.cs",
+              "RelativeToolTip": "VotingApp\\Controllers\\VotersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T07:31:49.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\piotr_kubiak\\source\\repos\\VotingApp\\VotingApp\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "VotingApp\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\piotr_kubiak\\source\\repos\\VotingApp\\VotingApp\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "VotingApp\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T07:31:16.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CandidatesController.cs",
+              "DocumentMoniker": "C:\\Users\\piotr_kubiak\\source\\repos\\VotingApp\\VotingApp\\Controllers\\CandidatesController.cs",
+              "RelativeDocumentMoniker": "VotingApp\\Controllers\\CandidatesController.cs",
+              "ToolTip": "C:\\Users\\piotr_kubiak\\source\\repos\\VotingApp\\VotingApp\\Controllers\\CandidatesController.cs",
+              "RelativeToolTip": "VotingApp\\Controllers\\CandidatesController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T07:30:30.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BadRequestException.cs",
+              "DocumentMoniker": "C:\\Users\\piotr_kubiak\\source\\repos\\VotingApp\\VotingApp\\Exceptions\\BadRequestException.cs",
+              "RelativeDocumentMoniker": "VotingApp\\Exceptions\\BadRequestException.cs",
+              "ToolTip": "C:\\Users\\piotr_kubiak\\source\\repos\\VotingApp\\VotingApp\\Exceptions\\BadRequestException.cs",
+              "RelativeToolTip": "VotingApp\\Exceptions\\BadRequestException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T07:30:24.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "VotingSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\piotr_kubiak\\source\\repos\\VotingApp\\VotingApp\\VotingSeeder.cs",
+              "RelativeDocumentMoniker": "VotingApp\\VotingSeeder.cs",
+              "ToolTip": "C:\\Users\\piotr_kubiak\\source\\repos\\VotingApp\\VotingApp\\VotingSeeder.cs",
+              "RelativeToolTip": "VotingApp\\VotingSeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T07:29:27.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VotingMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\piotr_kubiak\\source\\repos\\VotingApp\\VotingApp\\VotingMappingProfile.cs",
+              "RelativeDocumentMoniker": "VotingApp\\VotingMappingProfile.cs",
+              "ToolTip": "C:\\Users\\piotr_kubiak\\source\\repos\\VotingApp\\VotingApp\\VotingMappingProfile.cs",
+              "RelativeToolTip": "VotingApp\\VotingMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T07:29:22.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VotersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\piotr_kubiak\\source\\repos\\VotingApp\\VotingApp\\Repositories\\VotersRepository.cs",
+              "RelativeDocumentMoniker": "VotingApp\\Repositories\\VotersRepository.cs",
+              "ToolTip": "C:\\Users\\piotr_kubiak\\source\\repos\\VotingApp\\VotingApp\\Repositories\\VotersRepository.cs",
+              "RelativeToolTip": "VotingApp\\Repositories\\VotersRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T07:28:37.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CandidatesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\piotr_kubiak\\source\\repos\\VotingApp\\VotingApp\\Repositories\\CandidatesRepository.cs",
+              "RelativeDocumentMoniker": "VotingApp\\Repositories\\CandidatesRepository.cs",
+              "ToolTip": "C:\\Users\\piotr_kubiak\\source\\repos\\VotingApp\\VotingApp\\Repositories\\CandidatesRepository.cs",
+              "RelativeToolTip": "VotingApp\\Repositories\\CandidatesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T07:27:53.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VotersService.cs",
+              "DocumentMoniker": "C:\\Users\\piotr_kubiak\\source\\repos\\VotingApp\\VotingApp\\Services\\VotersService.cs",
+              "RelativeDocumentMoniker": "VotingApp\\Services\\VotersService.cs",
+              "ToolTip": "C:\\Users\\piotr_kubiak\\source\\repos\\VotingApp\\VotingApp\\Services\\VotersService.cs",
+              "RelativeToolTip": "VotingApp\\Services\\VotersService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T07:26:41.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DashboardService.cs",
+              "DocumentMoniker": "C:\\Users\\piotr_kubiak\\source\\repos\\VotingApp\\VotingApp\\Services\\DashboardService.cs",
+              "RelativeDocumentMoniker": "VotingApp\\Services\\DashboardService.cs",
+              "ToolTip": "C:\\Users\\piotr_kubiak\\source\\repos\\VotingApp\\VotingApp\\Services\\DashboardService.cs",
+              "RelativeToolTip": "VotingApp\\Services\\DashboardService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T07:25:58.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CandidatesService.cs",
+              "DocumentMoniker": "C:\\Users\\piotr_kubiak\\source\\repos\\VotingApp\\VotingApp\\Services\\CandidatesService.cs",
+              "RelativeDocumentMoniker": "VotingApp\\Services\\CandidatesService.cs",
+              "ToolTip": "C:\\Users\\piotr_kubiak\\source\\repos\\VotingApp\\VotingApp\\Services\\CandidatesService.cs",
+              "RelativeToolTip": "VotingApp\\Services\\CandidatesService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAWwDAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T07:23:42.035Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
